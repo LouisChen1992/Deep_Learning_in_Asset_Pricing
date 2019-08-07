@@ -44,6 +44,7 @@ We compare our GAN model, with a simple forecasting feedforward network model la
 
 ### Related Resources
 - [Deep Learning in Asset Pricing (Chen, Pelger and Zhu 2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350138)
+- [Pre-trained Models](http://web.stanford.edu/~lych/demo-dlap.html)
 - [Data](https://www.dropbox.com/s/mr3ymp9frb425al/Data.xlsx?dl=0)
 - [GitHub Repository]
 
